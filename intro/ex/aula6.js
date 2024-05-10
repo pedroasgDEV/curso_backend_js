@@ -1,0 +1,11 @@
+const input = require('prompt-sync')({sigint: true});
+const name = input("Qual seu nome completo? ");
+console.log(`Ola ${name.split(' ', 1)}!!!`);
+console.log(`Seu nome tem ${name.length} letras`);
+console.log(`A segunda letra do seu nome é "${name[1]}"`);
+console.log(`O primeiro indice da letra "a" do seu nome é ${name.indexOf('a')}`);
+console.log(`O ultimo indice da letra "a" do seu nome é ${name.lastIndexOf('a')}`);
+console.log(`As ultimas 3 letras do seu nome são "${name.slice(-3)}"`);
+console.log(`As palavras do seu nome são ${name.split(' ')}`);
+console.log(`Seu nome com letras maiusculas: ${name.toUpperCase()}`);
+console.log(`Seu nome com letras minusculas: ${name.toLowerCase()}`);
