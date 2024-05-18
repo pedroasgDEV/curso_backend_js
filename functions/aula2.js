@@ -36,7 +36,6 @@ function Pessoa(n, a, i, p) {
 	do peso = Number(input(`${nome.split(' ')[0]}, digite seu peso: `));  while (isNaN(peso));
 	
 	const eu = new Pessoa(nome, altura, idade, peso);
-	eu.setNome("Augusto")
 	console.log(eu.descricao());
 })();
 
