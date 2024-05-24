@@ -1,5 +1,9 @@
 {
+  "type": "module",
+  "author": "Marcelo R. Vismari",
+  "license": "ISC",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
+    "axios": "^1.7.2",
+    "node-fetch": "^3.3.2"
   }
 }
