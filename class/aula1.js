@@ -53,4 +53,6 @@ class Pessoa extends Cpf {
 }
 
 const x = new Pessoa("Pedro", 22, "127.211.966-18");
-console.log(x.toString());
+//console.log(x.toString());
+
+exports.Cpf = Cpf;
