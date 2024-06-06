@@ -1,4 +1,4 @@
-const { Cpf } = require("../../class/aula1");
+const Cpf = require("../../class/aula1").Cpf;
 
 class Pessoa {
 

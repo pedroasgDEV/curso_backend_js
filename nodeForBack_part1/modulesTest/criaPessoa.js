@@ -1,4 +1,5 @@
-const { Pessoa } = require("./Pessoa");
+const Pessoa = require("../modules/pessoa").Pessoa;
+const Pessoa = require("../modules/randPessoas");
 
 let criaPessoa;
 

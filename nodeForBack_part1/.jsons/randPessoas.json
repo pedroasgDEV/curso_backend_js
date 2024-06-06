@@ -1,0 +1,290 @@
+{
+ "results": [
+  {
+   "gender": "female",
+   "name": {
+    "title": "Mrs",
+    "first": "Magret",
+    "last": "Bertsch"
+   },
+   "location": {
+    "street": {
+     "number": 4304,
+     "name": "Wiesenstraße"
+    },
+    "city": "Kusel",
+    "state": "Saarland",
+    "country": "Germany",
+    "postcode": 19975,
+    "coordinates": {
+     "latitude": "-50.4863",
+     "longitude": "100.1661"
+    },
+    "timezone": {
+     "offset": "+7:00",
+     "description": "Bangkok, Hanoi, Jakarta"
+    }
+   },
+   "email": "magret.bertsch@example.com",
+   "login": {
+    "uuid": "a0ad6f7b-1ee4-4062-85cc-44ea4c1f5854",
+    "username": "silverfish350",
+    "password": "rose",
+    "salt": "44qcyiqu",
+    "md5": "452c9bab139e8dee4513d0c8077ff86d",
+    "sha1": "274e381864a6d4719a385586bdecdd6d353791bc",
+    "sha256": "56d03107766b04707bed7f9252823901b2a07ee9fe7aef39869460418755c63c"
+   },
+   "dob": {
+    "date": "1997-10-16T13:27:42.350Z",
+    "age": 26
+   },
+   "registered": {
+    "date": "2015-03-01T16:16:43.930Z",
+    "age": 9
+   },
+   "phone": "0809-3532987",
+   "cell": "0173-2086521",
+   "id": {
+    "name": "SVNR",
+    "value": "58 161097 B 535"
+   },
+   "picture": {
+    "large": "https://randomuser.me/api/portraits/women/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+   },
+   "nat": "DE"
+  },
+  {
+   "gender": "male",
+   "name": {
+    "title": "Mr",
+    "first": "Serafín",
+    "last": "Santillán"
+   },
+   "location": {
+    "street": {
+     "number": 9619,
+     "name": "Ampliación Medina"
+    },
+    "city": "Chiautempan",
+    "state": "Guanajuato",
+    "country": "Mexico",
+    "postcode": 78499,
+    "coordinates": {
+     "latitude": "81.0908",
+     "longitude": "114.5712"
+    },
+    "timezone": {
+     "offset": "-3:00",
+     "description": "Brazil, Buenos Aires, Georgetown"
+    }
+   },
+   "email": "serafin.santillan@example.com",
+   "login": {
+    "uuid": "b440ca84-2a18-4a0e-95f0-25c32f30b85a",
+    "username": "organiccat112",
+    "password": "nimitz",
+    "salt": "nk9maTGt",
+    "md5": "a05427c42e5f7f067fe37ad1f3117fa9",
+    "sha1": "ade7d2d9c749bd1296fa664a0253127875357555",
+    "sha256": "8533575afabaa29fa72659add51b89fc15a60a9d804db0488dd1635530da9ea4"
+   },
+   "dob": {
+    "date": "1980-09-27T14:48:28.711Z",
+    "age": 43
+   },
+   "registered": {
+    "date": "2017-12-14T13:17:09.762Z",
+    "age": 6
+   },
+   "phone": "(678) 227 6675",
+   "cell": "(674) 408 5798",
+   "id": {
+    "name": "NSS",
+    "value": "58 52 91 2706 0"
+   },
+   "picture": {
+    "large": "https://randomuser.me/api/portraits/men/45.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+   },
+   "nat": "MX"
+  },
+  {
+   "gender": "female",
+   "name": {
+    "title": "Ms",
+    "first": "Veera",
+    "last": "Wallo"
+   },
+   "location": {
+    "street": {
+     "number": 4712,
+     "name": "Siilitie"
+    },
+    "city": "Taipalsaari",
+    "state": "Southern Savonia",
+    "country": "Finland",
+    "postcode": 39465,
+    "coordinates": {
+     "latitude": "13.4797",
+     "longitude": "-130.7067"
+    },
+    "timezone": {
+     "offset": "+9:30",
+     "description": "Adelaide, Darwin"
+    }
+   },
+   "email": "veera.wallo@example.com",
+   "login": {
+    "uuid": "0ac7cd33-baac-48c7-b0d8-cfd9d94f14b0",
+    "username": "purpleswan576",
+    "password": "tigger",
+    "salt": "JC4uZeIh",
+    "md5": "85de7e78de69b168388d6eeef68aa843",
+    "sha1": "6cec6f52fe451ea668ff06d700913bf21332c517",
+    "sha256": "01e44c189e9ad7c7ee3cda55a6ee66eff65682652a53ad169748642ee30dbc79"
+   },
+   "dob": {
+    "date": "1998-01-29T04:36:46.573Z",
+    "age": 26
+   },
+   "registered": {
+    "date": "2013-12-22T02:22:39.913Z",
+    "age": 10
+   },
+   "phone": "08-449-425",
+   "cell": "041-848-31-54",
+   "id": {
+    "name": "HETU",
+    "value": "NaNNA746undefined"
+   },
+   "picture": {
+    "large": "https://randomuser.me/api/portraits/women/41.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+   },
+   "nat": "FI"
+  },
+  {
+   "gender": "male",
+   "name": {
+    "title": "Mr",
+    "first": "Ringo",
+    "last": "da Rosa"
+   },
+   "location": {
+    "street": {
+     "number": 1586,
+     "name": "Rua Sete de Setembro "
+    },
+    "city": "Itaguaí",
+    "state": "Bahia",
+    "country": "Brazil",
+    "postcode": 92966,
+    "coordinates": {
+     "latitude": "26.1018",
+     "longitude": "-162.4136"
+    },
+    "timezone": {
+     "offset": "+9:30",
+     "description": "Adelaide, Darwin"
+    }
+   },
+   "email": "ringo.darosa@example.com",
+   "login": {
+    "uuid": "5defce7c-dc59-47e5-9181-ead8f96d66f6",
+    "username": "redfish717",
+    "password": "homepage",
+    "salt": "84YwUBX2",
+    "md5": "0590064c00927a1d8e0d643b289d1c08",
+    "sha1": "dfd837cc5d3da954a24b7a1e0ac78d72e1fd1cce",
+    "sha256": "46e455fd8b1c217a3a1a4bf17b612a7d92e8a11bae61a4077c46cde192929f6a"
+   },
+   "dob": {
+    "date": "1978-03-26T20:24:16.048Z",
+    "age": 46
+   },
+   "registered": {
+    "date": "2014-06-04T10:52:58.366Z",
+    "age": 10
+   },
+   "phone": "(17) 9625-3444",
+   "cell": "(01) 0920-2800",
+   "id": {
+    "name": "CPF",
+    "value": "845.128.964-06"
+   },
+   "picture": {
+    "large": "https://randomuser.me/api/portraits/men/23.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
+   },
+   "nat": "BR"
+  },
+  {
+   "gender": "male",
+   "name": {
+    "title": "Mr",
+    "first": "Veron",
+    "last": "Tielemans"
+   },
+   "location": {
+    "street": {
+     "number": 4931,
+     "name": "Herenwaltje"
+    },
+    "city": "Baarn",
+    "state": "Limburg",
+    "country": "Netherlands",
+    "postcode": "7203 ZV",
+    "coordinates": {
+     "latitude": "-53.7626",
+     "longitude": "13.9280"
+    },
+    "timezone": {
+     "offset": "-3:00",
+     "description": "Brazil, Buenos Aires, Georgetown"
+    }
+   },
+   "email": "veron.tielemans@example.com",
+   "login": {
+    "uuid": "2d7d6387-c7b1-41c5-a2b6-2efed5b7cd7b",
+    "username": "goldendog988",
+    "password": "perfect1",
+    "salt": "hh1n62dY",
+    "md5": "12fd83190cb246693d7208986904472a",
+    "sha1": "529b4485ac4c6407f241e72e66fd8b65a24b8d9a",
+    "sha256": "34a385d4fe685f63aeb6047f410afecb59a65f3c3e54e8488d52ff379ac646d8"
+   },
+   "dob": {
+    "date": "1962-07-03T18:11:29.955Z",
+    "age": 61
+   },
+   "registered": {
+    "date": "2015-05-27T07:05:28.131Z",
+    "age": 9
+   },
+   "phone": "(0238) 758871",
+   "cell": "(06) 67809645",
+   "id": {
+    "name": "BSN",
+    "value": "99860731"
+   },
+   "picture": {
+    "large": "https://randomuser.me/api/portraits/men/6.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+   },
+   "nat": "NL"
+  }
+ ],
+ "info": {
+  "seed": "fc0a4c0feb392e4d",
+  "results": 5,
+  "page": 1,
+  "version": "1.4"
+ }
+}
